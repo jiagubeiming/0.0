@@ -11,8 +11,6 @@ DOMAIN-SUFFIX,lencr.org,节点选择
 DOMAIN-SUFFIX,r18.com,节点选择
 # flex3
 DOMAIN-SUFFIX,getflex.co,节点选择
-# > Apple
-DOMAIN,testflight.apple.com,节点选择
 # > Google
 DOMAIN-SUFFIX,appspot.com,节点选择
 DOMAIN-SUFFIX,blogger.com,节点选择
@@ -442,18 +440,11 @@ DOMAIN-SUFFIX,zb.com,节点选择
 DOMAIN-SUFFIX,zello.com,节点选择
 DOMAIN-SUFFIX,zeronet.io,节点选择
 DOMAIN-SUFFIX,zoom.us,节点选择
-
 DOMAIN,cc.tvbs.com.tw,节点选择
 DOMAIN,ocsp.int-x3.letsencrypt.org,节点选择
 DOMAIN,search.avira.com,节点选择
 DOMAIN,us.weibo.com,节点选择
-
 DOMAIN-KEYWORD,.pinterest.,节点选择
-
-DOMAIN-SUFFIX,edu,节点选择
-DOMAIN-SUFFIX,gov,节点选择
-DOMAIN-SUFFIX,mil,节点选择
-
 # (IP Blackhole)
 # > Facebook
 IP-CIDR,31.13.24.0/21,节点选择
@@ -509,24 +500,6 @@ DOMAIN-SUFFIX,noxinfluencer.com,节点选择
 DOMAIN-SUFFIX,smartmailcloud.com,节点选择
 DOMAIN-SUFFIX,weebly.com,节点选择
 DOMAIN-SUFFIX,twitter.jp,节点选择
-
-# (Region-Restricted Access Denied)
-# ---(Apple)---
-# > Apple URL Shortener
-DOMAIN-SUFFIX,appsto.re,节点选择
-# > iBooks Store download
-DOMAIN,books.itunes.apple.com,节点选择
-# > App Store Preview
-DOMAIN,apps.apple.com,节点选择
-DOMAIN,itunes.apple.com,节点选择
-# > Spotlight
-DOMAIN,api-glb-sea.smoot.apple.com,节点选择
-# > Look Up
-DOMAIN-SUFFIX,smoot.apple.com,节点选择
-DOMAIN,lookup-api.apple.com,节点选择
-# > Apple Music Web
-DOMAIN,beta.music.apple.com,节点选择
-# ------
 # > Others
 DOMAIN-SUFFIX,bing.com,节点选择
 DOMAIN-SUFFIX,cccat.io,节点选择
@@ -535,7 +508,6 @@ DOMAIN-SUFFIX,duboxcdn.com,节点选择
 DOMAIN-SUFFIX,ifixit.com,节点选择
 DOMAIN-SUFFIX,mangakakalot.com,节点选择
 DOMAIN-SUFFIX,shopeemobile.com,节点选择
-
 # (Network Jitter)
 # > Fix download or update is stuck in App Store,and when change the Apple ID region,the payment information can be selected by none.
 DOMAIN-KEYWORD,buy.itunes.apple.com,节点选择
