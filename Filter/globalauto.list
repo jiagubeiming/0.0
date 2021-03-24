@@ -371,6 +371,7 @@ HOST-SUFFIX,youboranqs01.com,节点选择
 HOST-SUFFIX,ytimg.com,节点选择
 
 
+IP-CIDR,36.155.240.14/32,节点选择
 IP-CIDR,1.37.35.6/32,节点选择
 IP-CIDR,101.100.179.242/32,节点选择
 IP-CIDR,101.100.179.250/32,节点选择
