@@ -283,9 +283,9 @@
 ^https?:\/\/api\.rr\.tv\/.*?(getAll|Version) url reject
 ^https?:\/\/api\.rr\.tv\/ad\/ url reject
 ^https?:\/\/api\.share\.mob\.com\/snsconf url reject-dict
-^https?:\/\/api\.smzdm\.com\/v2\/util\/banner url reject-img
-^https?:\/\/api\.smzdm\.com\/v\d\/util\/(banner|loading) url reject
-^https?:\/\/api\.smzdm\.com\/v\d\/util\/loading url reject
+##^https?:\/\/api\.smzdm\.com\/v2\/util\/banner url reject-img
+##^https?:\/\/api\.smzdm\.com\/v\d\/util\/(banner|loading) url reject
+##^https?:\/\/api\.smzdm\.com\/v\d\/util\/loading url reject
 ^https?:\/\/api\.tv\.sohu\.com\/agg\/api\/app\/config\/bootstrap url reject
 ^https?:\/\/api\.videozhishi\.com\/api\/getAdvertising url reject
 ^https?:\/\/api\.vistopia\.com\.cn\/api\/v\d\/home\/advertisement url reject
@@ -324,8 +324,8 @@
 ^https?:\/\/apimobile\.meituan\.com\/appupdate\/mach\/checkUpdate? url reject
 ^https?:\/\/app-api\.jinse\.com\/v\d\/ad\/ url reject
 ^https?:\/\/app-api\.niu\.com\/v\d\/advertisement\/ url reject
-^https?:\/\/app-api\.smzdm\.com\/util\/loading url reject
-^https?:\/\/app-api\.smzdm\.com\/util\/update url script-response-body https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_remove_ads.js
+##^https?:\/\/app-api\.smzdm\.com\/util\/loading url reject
+##^https?:\/\/app-api\.smzdm\.com\/util\/update url script-response-body https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_remove_ads.js
 ^https?:\/\/app2\.autoimg\.cn\/appdfs\/ url reject-img
 ^https?:\/\/app3\.qdaily\.com\/app3\/boot_advertisements\.json url reject
 ^https?:\/\/app\.10086\.cn\/biz-orange\/DN\/(findSale|homeSale)\/getsaleAdver url reject
@@ -350,7 +350,7 @@
 ^https?:\/\/appconf\.mail\.163\.com\/mmad\/ url reject
 ^https?:\/\/apprn\.pizzahut\.com\.cn\/updateCheck\? url reject-dict
 ^https?:\/\/appv6\.55haitao\.com\/IflyAd\/getAd url reject
-^https?:\/\/article-api\.smzdm\.com\/article\/index_home_page url script-response-body https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_remove_ads.js
+##^https?:\/\/article-api\.smzdm\.com\/article\/index_home_page url script-response-body ##https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_remove_ads.js
 ^https?:\/\/asp\.cntv\.myalicdn\.com\/.+?\?maxbr=850 url reject
 ^https?:\/\/ast\.api\.moji\.com\/assist\/ad\/moji\/stat url reject-img
 ^https?:\/\/atrace\.chelaile\.net\.cn\/adpub\/ url reject-img
@@ -513,13 +513,13 @@
 ^https?:\/\/gw\.aihuishou\.com\/app-portal\/home\/getadvertisement url reject
 ^https?:\/\/gw\.csdn\.net\/cms-app\/v\d+\/home_page\/open_advertisement url reject
 ^https?:\/\/h\w{2}\.hxsame\.hexun\.com url reject
-^https?:\/\/haojia-api\.smzdm\.com\/home\/list url script-response-body https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_remove_ads.js
-^https?:\/\/haojia\.m\.smzdm\.com\/detail_modul\/banner url reject
+##^https?:\/\/haojia-api\.smzdm\.com\/home\/list url script-response-body https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_remove_ads.js
+##^https?:\/\/haojia\.m\.smzdm\.com\/detail_modul\/banner url reject
 ^https?:\/\/hd\.mina\.mi\.com\/splashscreen\/alert url script-response-body https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/startup/startup.js
 ^https?:\/\/heic\.alicdn\.com\/tps\/i4\/.+?\.jpg_1200x1200q90\.jpg_\.heic$ url reject
 ^https?:\/\/hk\.app\.joox\.com\/billsrv\/clientBatchAdReport url reject
 ^https?:\/\/hk\.app\.joox\.com\/retrieval\/getAd url reject
-^https?:\/\/homepage-api\.smzdm\.com\/home url script-response-body https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_remove_ads.js
+##^https?:\/\/homepage-api\.smzdm\.com\/home url script-response-body https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_remove_ads.js
 ^https?:\/\/hui\.sohu\.com\/predownload2\/? url reject-img
 ^https?:\/\/huichuan\.sm\.cn\/jsad url reject
 ^https?:\/\/hypersnap\.mairuan\.com\/ url 302 https://www.keyshot.com/
@@ -731,7 +731,7 @@
 ^https?:\/\/richmanmain\.jxedt\.com\/advertisement\/fallback url reject-img
 ^https?:\/\/rm\.aarki\.net\/v1\/ads url reject-img
 ^https?:\/\/rtbapi.douyucdn.cn\/japi\/sign\/app\/getinfo url reject
-^https?:\/\/s-api\.smzdm\.com\/sou\/list url script-response-body https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_remove_ads.js
+##^https?:\/\/s-api\.smzdm\.com\/sou\/list url script-response-body https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_remove_ads.js
 ^https?:\/\/s0\.2mdn\.net\/ads\/ url reject-img
 ^https?:\/\/s1\.api\.tv\.itc\.cn\/v\d\/mobile\/control\/switch\.json url reject
 ^https?:\/\/s3\.pstatp\.com\/inapp\/TTAdblock\.css url reject-img
