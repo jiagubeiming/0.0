@@ -1,0 +1,15 @@
+#直播源
+host, al.p2p.huya.com, direct
+host, bd.p2p.huya.com, direct
+host, tx.p2p.huya.com, direct
+host, tx.flv.huya.com, direct
+host, bd.flv.huya.com, direct
+host, txdirect.flv.huya.com, direct
+#直播封面
+host, tx-live-cover.msstatic.com, direct
+host, live-cover.msstatic.com, direct
+host, anchorpost.msstatic.com, direct
+host, v-huya-img2.msstatic.com, direct
+host, huyaimg.msstatic.com, direct
+#主框架
+host, cdn.wup.huya.com, direct
