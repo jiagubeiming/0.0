@@ -1,3 +1,5 @@
+#弹幕
+host, cdnws.api.huya.com, direct
 #直播源
 host, al.p2p.huya.com, direct
 host, bd.p2p.huya.com, direct
