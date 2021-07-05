@@ -4,6 +4,7 @@ host, livewebbs2.msstatic.com, direct
 #弹幕
 host, cdnws.api.huya.com, direct
 #直播源
+host-suffix, p2p.huya.com, direct
 host, al.p2p.huya.com, direct
 host, bd.p2p.huya.com, direct
 host, tx.p2p.huya.com, direct
