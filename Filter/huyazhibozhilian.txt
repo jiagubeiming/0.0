@@ -1,3 +1,5 @@
+#动态视频
+host, huya-w6.huya.com, direct
 #网页图标 我的-任务
 host, kiwistatic.huya.com, direct
 host, hd.huya.com, direct
