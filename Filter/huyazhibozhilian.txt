@@ -1,4 +1,5 @@
 #网页图标 我的-任务
+host, kiwistatic.huya.com, direct
 host, hd.huya.com, direct
 host, livewebbs2.msstatic.com, direct
 #弹幕
