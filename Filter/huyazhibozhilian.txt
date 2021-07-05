@@ -1,5 +1,8 @@
-#动态视频
+#动态视频 封面
+host, v-huya-img.huya.com, direct
+host, huya-w10.huya.com,direct
 host, huya-w6.huya.com, direct
+host, huya-w21.huya.com,direct
 #网页图标 我的-任务
 host, kiwistatic.huya.com, direct
 host, hd.huya.com, direct
