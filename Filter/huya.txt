@@ -14,7 +14,7 @@ host, ffilelogapp.huya.com, reject
 host, api-cloud.master.live, reject
 host, business.msstatic.com, reject
 host, configapi.huya.com, reject
-host, cdnws.api.huya.com, reject
+host, cdnws.api.huya.com, direct
 host, ylog.huya.com, reject
 host, statwup.huya.com, reject
 host, kiwistatic.huya.com, reject
