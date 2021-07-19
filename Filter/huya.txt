@@ -1,35 +1,48 @@
-host, www.huya.com, reject
+host, huya-w20.huya.com, direct
+host, huya-w21.huya.com, direct
+host, huya-w10.huya.com, direct
+host-suffix, flv.huya.com, direct
+host-suffix, qvb.qcloud.com, reject
+host, huya-d.xylive.tv, direct
+host-suffix, msstatic.com, reject
+host-suffix, huya.com, reject
+host-suffix, hyext.com, reject
+host, conf.qvb.qcloud.com, reject
+host, cdnfile1.msstatic.com, reject
 host, diy-assets.msstatic.com, reject
 host-suffix, ext.huya.com, reject
 host, v-upload.huya.com, reject
-host, tx.p2p.huya.com, direct
 host, ocsp.digicert.com, reject
 host, udbdf.huya.com, reject
 host, cdnfile.huya.com, reject
 host, extsdk-msstatic.cdn.huya.com, reject
-host-suffix, hyext.com, reject
 host, hd.huya.com, reject
 host, e-stat.huya.com, reject
 host, ffilelogapp.huya.com, reject
-host, api-cloud.master.live, reject
 host, business.msstatic.com, reject
 host, configapi.huya.com, reject
-host, cdnws.api.huya.com, direct
 host, ylog.huya.com, reject
 host, statwup.huya.com, reject
 host, kiwistatic.huya.com, reject
 host, s1-static.msstatic.com, reject
 host, hydl.huya.com, reject
-host, tx.flv.huya.com, direct
-host-suffix, p2p.huya.com, direct
-host, cdn.wup.huya.com, direct
-host, txdirect.flv.huya.com, direct
 host, api-cloud.master.live, direct
+#基础框架
+host-suffix, cdn.wup.huya.com, direct
+#直播封面
+host, anchorpost.msstatic.com, direct
 host, livewebbs2.msstatic.com, direct
 host, live-cover.msstatic.com, direct
-host, huyaimg.msstatic.com, direct
 host, tx-live-cover.msstatic.com, direct
-host, v-huya-img2.msstatic.com, direct
-host, metric.huya.com, direct
-host, bd.p2p.huya.com, direct
+host, v-huya-img2.msstatic.com, reject
+#直播弹幕
+host, cdnws.api.huya.com, direct
+#直播视频
 host, bd.flv.huya.com, direct
+host, txdirect.flv.huya.com, direct
+host, tx.p2p.huya.com, direct
+host, tx.flv.huya.com, direct
+host, bd.p2p.huya.com, direct
+host, statwup.huya.com, direct
+#主播头像
+host, huyaimg.msstatic.com, direct
