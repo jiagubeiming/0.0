@@ -1,3 +1,5 @@
 #彩云天气
 https:\/\/((weather-data\.apple)|(api.weather))\.com url script-request-header https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/caiyun.js
-hostname =  weather-data.apple.com, api.weather.com
+#彩云天气SVIP
+^https:\/\/biz\.caiyunapp\.com\/v2\/user\?app_name\=weather url script-response-body  https://gitee.com/jexxagn/quan-x/raw/master/rewrite/caiyun_svip.js
+hostname =  weather-data.apple.com, api.weather.com, biz.caiyunapp.com
