@@ -35,7 +35,7 @@ host, anchorpost.msstatic.com, direct
 host, livewebbs2.msstatic.com, direct
 host, live-cover.msstatic.com, direct
 host, tx-live-cover.msstatic.com, direct
-host, v-huya-img2.msstatic.com, reject
+host, v-huya-img2.msstatic.com, direct
 #直播弹幕
 host, cdnws.api.huya.com, direct
 #直播视频
