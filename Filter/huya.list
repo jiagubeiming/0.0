@@ -28,7 +28,7 @@ host, kiwistatic.huya.com, reject
 host, s1-static.msstatic.com, reject
 host, hydl.huya.com, reject
 host, api-cloud.master.live, direct
-#基础框架
+#基础框架#
 host-suffix, cdn.wup.huya.com, direct
 #直播封面
 host, anchorpost.msstatic.com, direct
