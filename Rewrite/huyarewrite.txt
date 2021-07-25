@@ -1,0 +1,3 @@
+^https:\/\/huyaimg.msstatic.com\/cdnimage\/roomad\/* url reject-200
+
+hostname = huyaimg.msstatic.com
