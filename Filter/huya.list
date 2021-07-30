@@ -4,7 +4,7 @@ host, huya-w21.huya.com, direct
 host, huya-w10.huya.com, direct
 host-suffix, flv.huya.com, direct
 host-suffix, qvb.qcloud.com, reject
-host, huya-d.xylive.tv, direct
+host, huya-d.xylive.tv, reject
 host-suffix, msstatic.com, reject
 host-suffix, huya.com, reject
 host-suffix, hyext.com, reject
