@@ -31,7 +31,7 @@ host, api-cloud.master.live, direct
 #基础框架#
 host-suffix, cdn.wup.huya.com, direct
 #直播封面
-host, anchorpost.msstatic.com, direct
+#host, anchorpost.msstatic.com, direct
 host, livewebbs2.msstatic.com, direct
 host, live-cover.msstatic.com, direct
 host, tx-live-cover.msstatic.com, direct
