@@ -81,7 +81,6 @@ ip-cidr, 117.136.240.123/24, reject
 ip-cidr, 120.232.169.180/24, reject
 ip-cidr, 119.29.29.29/24, reject
 host-suffix,p2p.huya.com,direct
-host,bd.p2p.huya.com,reject
 host, huya-w20.huya.com, direct
 host, huya-w21.huya.com, direct
 host, huya-w10.huya.com, direct
