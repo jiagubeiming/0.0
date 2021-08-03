@@ -127,7 +127,7 @@ host, bd.flv.huya.com, direct
 host, txdirect.flv.huya.com, direct
 host, tx.p2p.huya.com, direct
 host, tx.flv.huya.com, direct
-#host, bd.p2p.huya.com, direct
+host, bd.p2p.huya.com, direct
 host, statwup.huya.com, direct
 #主播头像
 host, huyaimg.msstatic.com, direct
