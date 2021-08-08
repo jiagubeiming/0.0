@@ -77,7 +77,7 @@ host, j05.space, 节点选择
 ip-cidr, 223.111.127.41/24, reject
 ip-cidr, 223.111.107.50/24, reject
 ip-cidr, 223.111.133.41/24, reject
-ip-cidr, 117.136.240.123/24, reject
+#ip-cidr, 117.136.240.123/24, reject
 ip-cidr, 120.232.169.180/24, reject
 ip-cidr, 119.29.29.29/24, reject
 host-suffix,p2p.huya.com,direct
