@@ -1,0 +1,12 @@
+host, mbdp02.bdstatic.com, reject
+host, s.bdstatic.com, reject
+host, b.bdstatic.com, reject
+host, pic.rmb.bdstatic.com, reject
+host, ext.baidu.com, reject
+host, mbd.baidu.com, reject
+host, entry.baidu.com, reject
+host, mao.baidu.com, reject
+host, hpd.baidu.com, reject
+host, gimg1.baidu.com, reject
+host, ug.baidu.com, reject
+host, sp1.baidu.com, reject
