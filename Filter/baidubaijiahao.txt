@@ -3,7 +3,7 @@ host, s.bdstatic.com, reject
 host, b.bdstatic.com, reject
 host, pic.rmb.bdstatic.com, reject
 host, ext.baidu.com, reject
-host, mbd.baidu.com, reject
+#host, mbd.baidu.com, reject
 host, entry.baidu.com, reject
 host, mao.baidu.com, reject
 host, hpd.baidu.com, reject
