@@ -105,7 +105,7 @@ host, ffilelogapp.huya.com, reject
 host, business.msstatic.com, reject
 host, configapi.huya.com, reject
 host, ylog.huya.com, reject
-#host, statwup.huya.com, reject
+host, statwup.huya.com, reject
 host, kiwistatic.huya.com, reject
 host, s1-static.msstatic.com, reject
 host, hydl.huya.com, reject
