@@ -1,3 +1,9 @@
+host, miao.baidu.com , reject
+host, ada.baidu.com , reject
+host, ext.baidu.com , reject
+host, entry.baidu.com , reject
+host, ug.baidu.com , reject
+host, eopa.baidu.com , reject 
 host, mbdp02.bdstatic.com, reject
 host, s.bdstatic.com, reject
 host, b.bdstatic.com, reject
