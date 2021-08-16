@@ -1,0 +1,11 @@
+DOMAIN,d3g.qq.com,REJECT
+DOMAIN,bsrv.qq.com,REJECT
+DOMAIN,sq.bls.mdt.qq.com,REJECT
+#DOMAIN,btrace.qq.com,REJECT
+DOMAIN,adsmind.gdtimg.com,REJECT
+DOMAIN,xj-landing.gdtimg.com,REJECT
+host, wxsnsdythumb.wxs.qq.com, reject
+host, admin.livelink.qq.com, reject
+host, open.livelink.qq.com, reject
+host, safebrowsing.urlsec.qq.com, reject
+host, pgdt.gtimg.cn, reject
