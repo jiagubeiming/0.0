@@ -80,6 +80,11 @@ ip-cidr, 223.111.133.41/24, reject
 #ip-cidr, 117.136.240.123/24, reject
 ip-cidr, 120.232.169.180/24, reject
 ip-cidr, 119.29.29.29/24, reject
+host, apps.xiyouence.com, reject
+host, uim.xiyouence.com, reject
+host, ui.xiyoucdn.com, reject
+host, analytics.52xiyou.com, reject
+host, statwup.huya.com, reject
 host-suffix,p2p.huya.com,direct
 host, huya-w20.huya.com, direct
 host, huya-w21.huya.com, direct
