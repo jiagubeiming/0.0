@@ -1,3 +1,4 @@
+(^https?:\/\/afhghnb\.biliifcdfjcdvg\.cohkyf\/intl\/.+)(&s_locale=zh-Hans_[A-Z]{2})(.+) url 302 $1&s_locale=en-US_US$3
 hostname = -*.amemv.com,
 hostname = -*.snssdk.com, 
 hostname = qidian.qpic.cn, 
