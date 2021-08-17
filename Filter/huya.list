@@ -70,12 +70,7 @@ ip-cidr, 223.84.130.41/24, reject
 ip-cidr, 111.19.225.29/24, reject
 ip-cidr, 223.83.10.19/24, reject
 ip-cidr, 120.233.1.246/24, reject
--host, wup.huya.com, direct
-#ip-cidr, 36.150.154.35/24, reject
 host, j05.space, 节点选择
-ip-cidr, 223.111.127.41/24, reject
-ip-cidr, 223.111.107.50/24, reject
-ip-cidr, 223.111.133.41/24, reject
 #ip-cidr, 117.136.240.123/24, reject
 ip-cidr, 120.232.169.180/24, reject
 ip-cidr, 119.29.29.29/24, reject
