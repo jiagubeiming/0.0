@@ -1,8 +1,8 @@
 host-suffix, dgstatic.jd.com, reject
 host, analytics-api-01.smzdm.com, reject
-host, analytics-api.smzdm.com, reject
+#host, analytics-api.smzdm.com, reject
 host-suffix, aaid.uyunad.com, reject
-host-suffix, ulogs.umeng.com, reject
+#host-suffix, ulogs.umeng.com, reject
 host, sec.umeng.com, reject
 host, yunf.aliapp.org, reject
 #host-suffix, adashxgc.ut.taobao.com, reject
