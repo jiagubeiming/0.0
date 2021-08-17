@@ -7,7 +7,7 @@ host, sec.umeng.com, reject
 host, yunf.aliapp.org, reject
 #host-suffix, adashxgc.ut.taobao.com, reject
 host, baichuan-sdk.alicdn.com, reject
-host-suffix, kepler.jd.com, reject
+#host-suffix, kepler.jd.com, reject
 host, msg.umengcloud.com, reject
 host-suffix, errlog.umeng.com, reject
 host-suffix, pv.sohu.com, reject
