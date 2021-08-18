@@ -1,3 +1,4 @@
+host, eimg.smzdm.com, reject
 DOMAIN, otheve.beacon.qq.com, REJECT
 DOMAIN, mtrace.qq.com, REJECT
 DOMAIN, btrace.qq.com, REJECT
