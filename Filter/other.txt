@@ -14,7 +14,7 @@ DOMAIN, soup.v.qq.com, REJECT
 DOMAIN, ios.rqd.qq.com, REJECT
 DOMAIN, cdn.ark.qq.com, REJECT
 DOMAIN, cmshow.gtimg.cn, REJECT
-DOMAIN, dig.bdurl.net, REJECT
+#DOMAIN, dig.bdurl.net, REJECT
 DOMAIN, p.l.qq.com, REJECT
 DOMAIN, sdkconfig.video.qq.com, REJECT
 DOMAIN, vortex.data.microsoft.com, REJECT
@@ -42,7 +42,7 @@ DOMAIN, s.go.sohu.com, REJECT
 DOMAIN, chat.v4.ad371.com, REJECT
 DOMAIN, loc.map.baidu.com, REJECT
 DOMAIN, omgid.qq.com, REJECT
-DOMAIN, ib.snssdk.com, REJECT
+#DOMAIN, ib.snssdk.com, REJECT
 DOMAIN, hd.mmstat.com, REJECT
 DOMAIN, sp1.baidu.com, REJECT
 DOMAIN, appsupport.qq.com, REJECT
