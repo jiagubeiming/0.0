@@ -1,7 +1,7 @@
 ^https:\/\/huyaimg.msstatic.com\/cdnimage\/roomad\/* url reject-200
-^https:\/\/ylog.huya.com\/d.gif* url reject-200
+^https:\/\/ylog.huya.com\/* url reject-200
 ^https:\/\/www.huya.com\/act\/huyaDIYzt\/*  url reject-200
-^https:\/\/hm.baidu.com\/hm.js* url reject-200
-^https:\/\/a.msstatic.com\/huya/main3\/widget\/* url reject-200
+^https:\/\/hm.baidu.com\/* url reject-200
+^https:\/\/a.msstatic.com\/huya/* url reject-200
 ^https:\/\/hyext.cdn.huya.com\/ext-web-mid\/* url reject-200
 hostname = huyaimg.msstatic.com,hm.baidu.com,a.msstatic.com,hyext.cdn.huya.com,ylog.huya.com
