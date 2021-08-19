@@ -27,7 +27,7 @@ DOMAIN, xj.gdt.qq.com, REJECT
 DOMAIN, iadsdk.apple.com, REJECT
 DOMAIN, poweredby.jads.co, REJECT
 DOMAIN, tcbox.baidu.com, REJECT
-DOMAIN, data.bilibili.com, REJECT
+#DOMAIN, data.bilibili.com, REJECT
 DOMAIN, app-measurement.com, REJECT
 DOMAIN, wa.gtimg.com, REJECT
 DOMAIN, wspeed.qq.com, REJECT
@@ -42,7 +42,7 @@ DOMAIN, s.go.sohu.com, REJECT
 DOMAIN, chat.v4.ad371.com, REJECT
 DOMAIN, loc.map.baidu.com, REJECT
 DOMAIN, omgid.qq.com, REJECT
-#DOMAIN, ib.snssdk.com, REJECT
+#DOMAIN,ib.snssdk.com, REJECT
 DOMAIN, hd.mmstat.com, REJECT
 DOMAIN, sp1.baidu.com, REJECT
 DOMAIN, appsupport.qq.com, REJECT
@@ -105,7 +105,7 @@ DOMAIN-SUFFIX,ctobsnssdk.com, REJECT
 DOMAIN-SUFFIX, mob.com, REJECT
 DOMAIN,dualstack-logs.amap.com, REJECT
 DOMAIN,itsdata.map.baidu.com, REJECT
-DOMAIN, ofloc.map.baidu.com, REJECT
+DOMAIN,ofloc.map.baidu.com, REJECT
 DOMAIN,metrics.icloud.com, REJECT
 DOMAIN,ta.pinduoduo.com, REJECT
 DOMAIN-SUFFIX,flurry.com, REJECT
@@ -114,7 +114,7 @@ DOMAIN,sp0.baidu.com, REJECT
 DOMAIN,sofire.baidu.com, REJECT
 DOMAIN,stats.gc.apple.com, REJECT
 DOMAIN,adstats.tencentmusic.com, REJECT
-DOMAIN,data.bilibili.com, REJECT
+#DOMAIN,data.bilibili.com, REJECT
 DOMAIN,dataflow.biliapi.com, REJECT
 DOMAIN,miniapp.bilibili.com, REJECT
 DOMAIN,ssp.tencentmusic.com, REJECT
