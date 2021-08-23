@@ -1,0 +1,2 @@
+hostname = heic.alicdn.com
+^https:\/\/heic.alicdn.com\/imgextra\/i4\/* url reject-200
