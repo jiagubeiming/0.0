@@ -34,7 +34,7 @@ host, kiwistatic.huya.com, reject
 host, s1-static.msstatic.com, reject
 host, hydl.huya.com, reject
 host, api-cloud.master.live, direct
-host, heic.alicdn.com, reject
+#host, heic.alicdn.com, reject
 host, videobd-platform.cdn.huya.com, direct
 #基础框架#
 host-suffix, cdn.wup.huya.com, direct
