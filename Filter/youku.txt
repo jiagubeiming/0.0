@@ -1,0 +1,7 @@
+host, apiv4-iyes.youku.com, reject
+host, ems.youku.com, reject
+host, image.uczzd.cn, reject
+host, ipm.atm.youku.com, reject
+host, iyes.youku.com, reject
+host, wgo.mmstat.com, reject
+host, image.uczzd.cn, reject
