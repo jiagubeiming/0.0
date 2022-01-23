@@ -1,0 +1,3 @@
+hostname = *.alicdn.com, *.myalicdn.com
+^https:\/\/img.alicdn.com\/imgextra\/* url reject-200
+^http:\/\/vali.cp31.ott.cibntv.net.302.myalicdn.com\/youku\/* url reject-200
