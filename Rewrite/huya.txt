@@ -4,3 +4,4 @@
 ^https:\/\/hm.baidu.com\/hm.js* url reject-200
 ^https:\/\/a.msstatic.com\/huya/main3\/widget\/* url reject-200
 ^https:\/\/hyext.cdn.huya.com\/ext-web-mid\/* url reject-200
+^https:\/\/livewebbs2.msstatic.com\/function_component\/* url reject-200
