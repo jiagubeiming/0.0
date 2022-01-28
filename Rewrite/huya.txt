@@ -6,4 +6,3 @@
 ^https:\/\/hyext.cdn.huya.com\/ext-web-mid\/* url reject-200
 ^https:\/\/livewebbs2.msstatic.com\/function_component\/* url reject-200
 ^https:\/\/business.msstatic.com\/dsp\/image/*  url reject-200
-hostname = *.huya.com,*.msstatic.com,*.baidu.com,*.qpic.cn
