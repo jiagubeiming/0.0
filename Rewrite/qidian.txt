@@ -1,7 +1,7 @@
-^https:\/\/qidian.qpic.cn\/qidian_common\/* url reject-200
-^https:\/\/qdclient-resources-1252317822.image.myqcloud.com\/images\/* url reject-200
-^https:\/\/bossaudioandcomic-1252317822.image.myqcloud.com\/activity\/* url reject-200
-^https://pgdt.gtimg.cn/* url reject-200
-^https:\/\/qidian.qpic.cn\/qidian_common\/* url reject-200
-^https:\/\/*.image.myqcloud.com\/activity\/document\/* url reject-200
-^https:\/\/pgdt.gtimg.cn\/141\/20204\/snscosdownload\/SZ\/reserved\/* url reject-200
+^https:\/\/qidian.qpic.cn\/qidian_common\/* url reject
+^https:\/\/qdclient-resources-1252317822.image.myqcloud.com\/images\/* url reject
+^https:\/\/bossaudioandcomic-1252317822.image.myqcloud.com\/activity\/* url reject
+^https://pgdt.gtimg.cn/* url reject
+^https:\/\/qidian.qpic.cn\/qidian_common\/* url reject
+^https:\/\/*.image.myqcloud.com\/activity\/document\/* url reject
+^https:\/\/pgdt.gtimg.cn\/141\/20204\/snscosdownload\/SZ\/reserved\/* url reject
