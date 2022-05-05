@@ -41,8 +41,8 @@ DOMAIN-SUFFIX,xn--ngstr-lra8j.com,节点选择
 DOMAIN-SUFFIX,ytimg.com,节点选择
 DOMAIN-SUFFIX,google.com,节点选择
 DOMAIN-SUFFIX,youtube.com,节点选择
-HOST,youtubei.googleapis.com,节点选择
-HOST-SUFFIX,googlevideo.com,节点选择
+#HOST,youtubei.googleapis.com,节点选择
+#HOST-SUFFIX,googlevideo.com,节点选择
 HOST-SUFFIX,youtu.be,节点选择
 
 # > Google IP-CIDR
