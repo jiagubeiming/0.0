@@ -17,15 +17,7 @@ host, j05.space, 节点选择
 host, fantia.jp, 节点选择
 host-suffix, google.com.hk, 节点选择
 host-suffix, 18moe.net, 节点选择
-host-suffix, googleapis.com, 节点选择
-host-suffix, googleapis.com, 节点选择
-host-suffix, googleapis.com, 节点选择
-host-suffix, googleapis.com, 节点选择
-host-suffix, googleapis.com, 节点选择
-host-suffix, googleapis.com, 节点选择
-host-suffix, googleapis.com, 节点选择
-host-suffix, googleapis.com, 节点选择
-host-suffix, googleapis.com, 节点选择
+#host-suffix, googleapis.com, 节点选择
 host-suffix, ted.com, 节点选择
 host-suffix, yad.com, 节点选择
 DOMAIN-SUFFIX,laowang.vip,节点选择
