@@ -1,5 +1,9 @@
 # other
 
+host-suffix, discordapp.net, 节点选择
+host-suffix, discord.com, 节点选择
+host-suffix, discordapp.com, 节点选择
+host-suffix, googleapis.com, 节点选择
 host-suffix, discordapp.com, 节点选择
 host-suffix, adjust.com, 节点选择
 host-suffix, discord.gg, 节点选择
