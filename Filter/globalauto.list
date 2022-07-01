@@ -183,7 +183,7 @@ DOMAIN-SUFFIX,aka.ms,节点选择
 DOMAIN-SUFFIX,onedrive.live.com,节点选择
 DOMAIN,az416426.vo.msecnd.net,节点选择
 DOMAIN,az668014.vo.msecnd.net,节点选择
-DOMAIN-SUFFIX,bing.com,节点选择
+#DOMAIN-SUFFIX,bing.com,节点选择
 
 # > tiktok
 DOMAIN-SUFFIX,tiktokv.com,节点选择
