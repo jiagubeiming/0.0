@@ -433,7 +433,6 @@
         - DOMAIN-SUFFIX,weebly.com,🚀 节点选择
         - DOMAIN-SUFFIX,twitter.jp,🚀 节点选择
         - DOMAIN-SUFFIX,appsto.re,🚀 节点选择
-        - DOMAIN-SUFFIX,bing.com,🚀 节点选择
         - DOMAIN-SUFFIX,cccat.io,🚀 节点选择
         - DOMAIN-SUFFIX,dubox.com,🚀 节点选择
         - DOMAIN-SUFFIX,duboxcdn.com,🚀 节点选择
@@ -930,7 +929,6 @@
         - DOMAIN-SUFFIX,weebly.com,🚀 节点选择
         - DOMAIN-SUFFIX,twitter.jp,🚀 节点选择
         - DOMAIN-SUFFIX,appsto.re,🚀 节点选择
-        - DOMAIN-SUFFIX,bing.com,🚀 节点选择
         - DOMAIN-SUFFIX,cccat.io,🚀 节点选择
         - DOMAIN-SUFFIX,dubox.com,🚀 节点选择
         - DOMAIN-SUFFIX,duboxcdn.com,🚀 节点选择
@@ -1341,7 +1339,6 @@
         - DOMAIN-SUFFIX,apartmentratings.com,🚀 节点选择
         - DOMAIN-SUFFIX,apartments.com,🚀 节点选择
         - DOMAIN-SUFFIX,bankmobilevibe.com,🚀 节点选择
-        - DOMAIN-SUFFIX,bing.com,🚀 节点选择
         - DOMAIN-SUFFIX,booktopia.com.au,🚀 节点选择
         - DOMAIN-SUFFIX,cccat.io,🚀 节点选择
         - DOMAIN-SUFFIX,centauro.com.br,🚀 节点选择
@@ -1677,8 +1674,6 @@
         - DOMAIN-SUFFIX,onedrive.live.com,🚀 节点选择
         - DOMAIN,az416426.vo.msecnd.net,🚀 节点选择
         - DOMAIN,az668014.vo.msecnd.net,🚀 节点选择
-#
-        - DOMAIN-SUFFIX,bing.com,🚀 节点选择
 # > tiktok
         - DOMAIN-SUFFIX,tiktokv.com,🚀 节点选择
         - DOMAIN-SUFFIX,tik-tokapi.com,🚀 节点选择
