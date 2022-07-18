@@ -11,16 +11,3 @@ host-suffix,toutiaoapi.com,上海
 #douyin
 host-keyword,normal-lq,上海
 host-keyword,normal-c-lq,上海
-
-#tieba
-host,www.baidu.com,上海
-host,tracker.dcdn.baidu.com,上海
-host,bgg.baidu.com,上海
-host,query.dcdn.baidu.com,上海
-host,afdconf.baidu.com,上海
-host,mbd.baidu.com,上海
-host,cdn.hiphotos.baidu.com,上海
-host,im.tieba.baidu.com,上海
-host,bdbus-turbonet.baidu.com,上海
-host,tcbox.baidu.com,上海
-host,tiebac.baidu.com,上海
