@@ -14,3 +14,4 @@ host-suffix, oceanengine.com, 上海
 host-suffix, byteeffecttos.com, 上海
 host-suffix, douyinstatic.com, 上海
 host-suffix, api.weibo.cn, 上海
+host, mp.weixin.qq.com, 上海
