@@ -1,17 +1,26 @@
-host-suffix, volcsiriusbd.com, 上海
-host-suffix, bytegecko.com, 上海
-host-suffix, bsgslb.cn, 上海
-host-suffix, bytednsdoc.com, 上海
-host-suffix, snssdk.com, 上海
-host-suffix, zjurl.cn, 上海
-host-suffix, ecombdapi.com, 上海
-host-suffix, activity-ag.awemeughun.com, 上海
-host-suffix, pstatp.com, 上海
-host-suffix, bytedance.com, 上海
-host-suffix, zijieapi.com, 上海
-host-suffix, bytecdn.cn, 上海
-host-suffix, oceanengine.com, 上海
-host-suffix, byteeffecttos.com, 上海
-host-suffix, douyinstatic.com, 上海
-host-suffix, api.weibo.cn, 上海
 host, mp.weixin.qq.com, 上海
+#weibo
+host,api.weibo.cn,上海
+
+#zhihu
+ip-cidr,103.41.167.226/8,上海
+
+#toutiao
+host-suffix,toutiaoapi.com,上海
+
+#douyin
+host-keyword,normal-lq,上海
+host-keyword,normal-c-lq,上海
+
+#tieba
+host,www.baidu.com,上海
+host,tracker.dcdn.baidu.com,上海
+host,bgg.baidu.com,上海
+host,query.dcdn.baidu.com,上海
+host,afdconf.baidu.com,上海
+host,mbd.baidu.com,上海
+host,cdn.hiphotos.baidu.com,上海
+host,im.tieba.baidu.com,上海
+host,bdbus-turbonet.baidu.com,上海
+host,tcbox.baidu.com,上海
+host,tiebac.baidu.com,上海
