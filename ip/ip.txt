@@ -1,10 +1,10 @@
 host, mp.weixin.qq.com, 上海
 host,api.weibo.cn,上海
 #哔哩哔哩
-ip-cidr 203.107.1.65/8,上海
-ip-cidr 203.107.1.66/8,上海
+ip-cidr 203.107.1.65,上海
+ip-cidr 203.107.1.66,上海
 #zhihu
-ip-cidr,103.41.167.226/8,上海
+ip-cidr,103.41.167.226,上海
 host-suffix,toutiaoapi.com,上海
 #douyin
 host-keyword,normal-lq,上海
