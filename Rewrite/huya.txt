@@ -1,5 +1,5 @@
 ^https:\/\/qidian.qpic.cn\/qidian_common\/* url reject-200
-^https:\/\/ylog.huya.com\/d.gif* url reject-200
+#^https:\/\/ylog.huya.com\/d.gif* url reject-200
 ^https:\/\/www.huya.com\/act\/huyaDIYzt\/*  url reject-200
 ^https:\/\/hm.baidu.com\/hm.js* url reject-200
 ^https:\/\/a.msstatic.com\/huya/main3\/widget\/* url reject-200
