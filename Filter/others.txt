@@ -1,0 +1,17 @@
+host-suffix, wxs.qq.com, reject
+host-suffix, vcc.ssacdn.com, reject
+host-suffix, gvt1.com, reject
+host-suffix, cdn-creatives-tencent-prd.unityads.unitychina.cn, reject
+host, unidesk.alicdn.com, reject
+host, m-yk.ykimg.com, reject
+host, image.uczzd.cn, reject
+-host-suffix, pglstatp-toutiao.com, reject
+-host, v3-be-pack.pglstatp-toutiao.com, reject
+-host, sf3-be-pack.pglstatp-toutiao.com, reject
+host, sf1-ttcdn-tos.pstatp.com, reject
+-host, sf6-be-pack.pglstatp-toutiao.com, reject
+host, ossgw.alicdn.com, reject
+host, r1.ykimg.com, reject
+host, liveweb.oss-cn-shenzhen.aliyuncs.com, reject
+-host, sf6-be-pack.pglstatp-toutiao.com, reject
+host, sh.jd.com, reject
