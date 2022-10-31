@@ -1,4 +1,4 @@
 host, qdclient-resources-1252317822.image.myqcloud.com, reject
-host, bossaudioandcomic-1252317822.image.myqcloud.com, reject
+#host, bossaudioandcomic-1252317822.image.myqcloud.com, reject
 host, qidian.qpic.cn, reject
 host, qdclient-resources-1252317822.image.myqcloud.com, reject
