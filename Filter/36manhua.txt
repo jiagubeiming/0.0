@@ -1,3 +1,0 @@
-host, api-access.pangolin-sdk-toutiao.com, reject
-host, sf3-be-pack.pglstatp-toutiao.com, reject
-host, sf6-be-pack.pglstatp-toutiao.com, reject
