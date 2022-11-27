@@ -8,3 +8,6 @@
 ^https:\/\/magev6.if.qidian.com\/argus\/api\/v4\/client\/* url reject-200
 ^https:\/\/magev6.if.qidian.com\/argus\/api\/v1\/adv\/* url reject-200
 #^https://magev6.if.qidian.com/argus/api/v1/message/getpushedmessagelist url reject
+^https://bossaudioandcomic-1252317822.image.myqcloud.com/activity/document/49cb7a91a55f2ff977e6c3eb703d5ae6.png url reject
+^https://bossaudioandcomic-1252317822.image.myqcloud.com/activity/document/dd08141acede00847b2364d61be8b128.jpg url reject
+^https://bossaudioandcomic-1252317822.image.myqcloud.com/activity/document/399ae7d4a9c976863ab8299238bb0c65.gif url reject
