@@ -2,7 +2,7 @@ hostname = ad.12306.cn, 103.91.210.141, js-ad.ayximgs.com, pzoap.moedot.com, pip
 
 
 # ======= ~ ====== #
-#以下重写请自行添加，本重写引用不含【喜马拉雅、哔哩哔哩、微博、微博国际版、百度贴吧、知乎、什么值得买】去广告
+#不含喜马拉雅、哔哩哔哩、微博、微博国际版、百度贴吧、知乎、什么值得买
 ;https://ocd0522.tk/ddgksf2013/Cuttlefish/raw/branch/master/Rewrite/AdBlock/Ximalaya.conf
 ;https://ocd0522.tk/ddgksf2013/Cuttlefish/raw/branch/master/Rewrite/AdBlock/Bilibili.conf
 ;https://ocd0522.tk/ddgksf2013/Cuttlefish/raw/branch/master/Rewrite/AdBlock/Weibo.conf
