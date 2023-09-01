@@ -1,0 +1,14 @@
+#中国移动app
+^https://qwhdcdn.cmcc-cs.cn/prd-mgcenter/c501a4f89c734a86a41046d188a96e98.jpg url reject-200
+^https://qwhdcdn.cmcc-cs.cn/prd-mgcenter/f93507fe68124d5d84f11a2d3819a9e5.jpg url reject-200
+^https://qwhdcdn.cmcc-cs.cn/prd-mgcenter/d12b7bd3d7a84bfaa1aa7bc1c4dcd60e.jpg url reject-200
+^https://qwhdcdn.cmcc-cs.cn/prd-mgcenter/836a56714a634598b91ea1b0f56cb6cb.jpg url reject-200
+#中国移动江苏app
+^https://img03.js.10086.cn/jsmccClient_img/ecmcServer/images/ad_resource/* url reject-200
+^https://img03.js.10086.cn/jsmccClient_img/ecmcServer/images/rec_resource/3f9e3d2a0110429f8b43a52daca71707.jpg url reject-200
+^https://img03.js.10086.cn/jsmccClient_img/ecmcServer/images/rec_resource/b181f4a8d3524ed6bd65b3086eba36ed.jpg url reject-200
+^https://img03.js.10086.cn/jsmccClient_img/ecmcServer/images/precision/af101c9b2c4941668aac5e20502d8859.jpg url reject-200
+^https://img03.js.10086.cn/jsmccClient_img/ecmcServer/images/rec_resource/42f7bdfa3b6242479187a6b6c730fb82.png url reject-200
+^https://img03.js.10086.cn/jsmccClient_img/ecmcServer/images/rec_resource/07d8b0431c124a12ba1fd129d3d357b6.jpg url reject-200
+^https://img03.js.10086.cn/jsmccClient_img/ecmcServer/images/rec_resource/9fc10703a0a24c9e998218d7c038dd91.png url reject-200
+http://p0.meituan.net/bizad/* url reject-200
