@@ -1,3 +1,107 @@
+        - host, app.appsflyer.com,🚀 节点选择
+        - host-suffix, fyber.com,🚀 节点选择
+        - host-suffix, mypikpak.com,🚀 节点选择
+        - host, user.mypikpak.com,🚀 节点选择
+        - host, static.doubleclick.net,🚀 节点选择
+        - host, api16-log-sg.pangle-b.io,🚀 节点选择
+        - host, scar.unityads.unitychina.cn,🚀 节点选择
+        - host, notifications.fyber.com,🚀 节点选择
+        - host, tnc16-alisg.isnssdk.com,🚀 节点选择
+        - host-suffix, liftoff.io,🚀 节点选择
+        - host-suffix, liftoff-creatives.io,🚀 节点选择
+        - ip-cidr, 91.108.23.100/24,🚀 节点选择
+        - ip-cidr, 182.87.66.162/24,🚀 节点选择
+        - ip-cidr, 112.20.243.200/24,🚀 节点选择
+        - host-suffix, zendesk.com,🚀 节点选择
+        - host-suffix, pangle.io,🚀 节点选择
+        - ip-cidr, 120.241.131.0/24,🚀 节点选择
+        - ip-cidr, 36.155.26.25/24,🚀 节点选择
+        - ip-cidr, 120.232.51.179/24,🚀 节点选择
+        - ip-cidr, 36.150.51.43/24,🚀 节点选择
+        - ip-cidr, 36.6.221.0/24,🚀 节点选择
+        - ip-cidr, 125.78.129.0/22,🚀 节点选择
+        - host-suffix, lanjie100.com,🚀 节点选择
+        - host-suffix, yandex.net,🚀 节点选择
+        - host-suffix, rayjump.com,🚀 节点选择
+        - host-suffix, 2mdn.net,🚀 节点选择
+        - host-suffix, acquire.unity3dusercontent.com,🚀 节点选择
+        - host-suffix, mindworks-creative.com,🚀 节点选择
+        - host-suffix, mintegral.com,🚀 节点选择
+        - host, about.meta.com,🚀 节点选择
+        - host-suffix, chinaliftoff-creatives.io,🚀 节点选择
+        - host-suffix, inner-active.mobi,🚀 节点选择
+        - host-suffix, mzstatic.com,🚀 节点选择
+        - host-suffix, exhentai.org,🚀 节点选择
+        - host, www.pkqcloudx.com,🚀 节点选择
+        - host, get.imglarger.com,🚀 节点选择
+        - host, www.east-plus.net,🚀 节点选择
+        - host-suffix, saygames.io,🚀 节点选择
+        - host-suffix, rubiconproject.com,🚀 节点选择
+        - host-suffix, mookie1.com,🚀 节点选择
+        - host, rt.applvn.com,🚀 节点选择
+        - host-suffix, ssacdn.com,🚀 节点选择
+        - host, cx.ssacdn.com,🚀 节点选择
+        - host-suffix, moatpixel.com,🚀 节点选择
+        - host-suffix, moatads.com,🚀 节点选择
+        - host-suffix, adsmoloco.com,🚀 节点选择
+        - host-suffix, bing.com,🚀 节点选择
+        - host, a.applvn.com,🚀 节点选择
+        - host, logs.ironsrc.mobi,🚀 节点选择
+        - host, static.ssacdn.com,🚀 节点选择
+        - host-suffix, smartadserver.com,🚀 节点选择
+        - host-suffix, onesy.tpo,🚀 节点选择
+        - host, www.v2ex.com,🚀 节点选择
+        - host, minionrush.com,🚀 节点选择
+        - host, px.moatads.com,🚀 节点选择
+        - host, gateway.bingviz.microsoftapp.net,🚀 节点选择
+        - -host-suffix, bing.com,🚀 节点选择
+        - host, www.bing.com,🚀 节点选择
+        - host, 3.datadog.pool.ntp.org,🚀 节点选择
+        - host-suffix, sgsnssdk.com,🚀 节点选择
+        - host, ntp.org,🚀 节点选择
+        - host, ad.doubleclick.net,🚀 节点选择
+        - host, z.moatads.com,🚀 节点选择
+        - host, www.51cg3.com,🚀 节点选择
+        - host, anti-ad.net,🚀 节点选择
+        - host-suffix, tungtw.app.link,🚀 节点选择
+        - host-suffix, paypal.com,🚀 节点选择
+        - host, foxlibrary.xyz,🚀 节点选择
+        - host-suffix, eu.org,🚀 节点选择
+        - host-suffix, dropboxstatic.com,🚀 节点选择
+        - host, www.bbtxt8.com,🚀 节点选择
+        - host-suffix, apt.thebigboss.org,🚀 节点选择
+        - host, static.klaviyo.com,🚀 节点选择
+        - host, manage.kmail-lists.com,🚀 节点选择
+        - host, noti-asia.adsmoloco.com,🚀 节点选择
+        - host, www.pkqcloud0.com,🚀 节点选择
+        - host, tr-asia.adsmoloco.com,🚀 节点选择
+        - host-suffix, applovin.com,🚀 节点选择
+        - host-suffix, adsrvr.org,🚀 节点选择
+        - host, insight.adsrvr.org,🚀 节点选择
+        - host, ocsp.pki.goog,🚀 节点选择
+        - host, unity.api.mchnad.com,🚀 节点选择
+        - host-suffix, unity.cn,🚀 节点选择
+        - host-suffix, singular.net,🚀 节点选择
+        - host-suffix, igp08-gl-bdc.wshtgame.com,🚀 节点选择
+        - host-suffix, adsafeprotected.com,🚀 节点选择
+        - host-suffix, amazontrust.com,🚀 节点选择
+        - host, wins.isprog.com,🚀 节点选择
+        - host, ecomapis.gameloft.com.cn,🚀 节点选择
+        - host-suffix, supersonicads.com,🚀 节点选择
+        - host-suffix, vungle.com,🚀 节点选择
+        - host, analytics.tresensa.com,🚀 节点选择
+        - host, events.ads.vungle.com,🚀 节点选择
+        - host, ms.applovin.com,🚀 节点选择
+        - host-suffix, pixivlite.com,🚀 节点选择
+        - host-suffix, pximg.net,🚀 节点选择
+        - host, www.pkqcloud0.com,🚀 节点选择
+        - host, api.dogeconfig.com,🚀 节点选择
+        - host, rt.applovin.com,🚀 节点选择
+        - host-suffix, gameloft.org,🚀 节点选择
+        - host, dlsite.com,🚀 节点选择
+        - host-suffix, tgbot.moe,🚀 节点选择
+        - host, mojie.link,🚀 节点选择
+        - host-suffix, gameloft.com,🚀 节点选择
         - DOMAIN, a.luxury,🚀 节点选择
         - DOMAIN, app-measurement.com,🚀 节点选择
         - DOMAIN, cn.akinator.com,🚀 节点选择
@@ -295,9 +399,6 @@
         - DOMAIN-SUFFIX,ebookservice.tw,🚀 节点选择
         - DOMAIN-SUFFIX,economist.com,🚀 节点选择
         - DOMAIN-SUFFIX,edditstatic.com,🚀 节点选择
-        - DOMAIN-SUFFIX,edgecastcdn.net,🚀 节点选择
-        - DOMAIN-SUFFIX,edgedatg.com,🚀 节点选择
-        - DOMAIN-SUFFIX,edu,🚀 节点选择
         - DOMAIN-SUFFIX,edx-cdn.org,🚀 节点选择
         - DOMAIN-SUFFIX,elastic.co,🚀 节点选择
         - DOMAIN-SUFFIX,elastic.com,🚀 节点选择
