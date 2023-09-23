@@ -1,0 +1,5 @@
+host-suffix, pglstatp-toutiao.com, reject
+host-suffix, p9-be-pack-sign.pglstatp-toutiao.com, reject
+host, bc-ad-vod.zdmimg.com, reject
+host, wxsnsdythumb.wxs.qq.com, reject
+host-suffix, pgdt.gtimg.cn, reject
