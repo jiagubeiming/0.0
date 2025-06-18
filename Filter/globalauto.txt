@@ -86,7 +86,6 @@
         - host-suffix, adsafeprotected.com,🚀 节点选择
         - host-suffix, amazontrust.com,🚀 节点选择
         - host, wins.isprog.com,🚀 节点选择
-        - host, ecomapis.gameloft.com.cn,🚀 节点选择
         - host-suffix, supersonicads.com,🚀 节点选择
         - host-suffix, vungle.com,🚀 节点选择
         - host, analytics.tresensa.com,🚀 节点选择
@@ -97,11 +96,9 @@
         - host, www.pkqcloud0.com,🚀 节点选择
         - host, api.dogeconfig.com,🚀 节点选择
         - host, rt.applovin.com,🚀 节点选择
-        - host-suffix, gameloft.org,🚀 节点选择
         - host, dlsite.com,🚀 节点选择
         - host-suffix, tgbot.moe,🚀 节点选择
         - host, mojie.link,🚀 节点选择
-        - host-suffix, gameloft.com,🚀 节点选择
         - DOMAIN, a.luxury,🚀 节点选择
         - DOMAIN, app-measurement.com,🚀 节点选择
         - DOMAIN, cn.akinator.com,🚀 节点选择
