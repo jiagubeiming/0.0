@@ -4,7 +4,6 @@
         - host, user.mypikpak.com,🚀 节点选择
         - host, static.doubleclick.net,🚀 节点选择
         - host, api16-log-sg.pangle-b.io,🚀 节点选择
-        - host, scar.unityads.unitychina.cn,🚀 节点选择
         - host, notifications.fyber.com,🚀 节点选择
         - host, tnc16-alisg.isnssdk.com,🚀 节点选择
         - host-suffix, liftoff.io,🚀 节点选择
@@ -24,7 +23,6 @@
         - host-suffix, yandex.net,🚀 节点选择
         - host-suffix, rayjump.com,🚀 节点选择
         - host-suffix, 2mdn.net,🚀 节点选择
-        - host-suffix, acquire.unity3dusercontent.com,🚀 节点选择
         - host-suffix, mindworks-creative.com,🚀 节点选择
         - host-suffix, mintegral.com,🚀 节点选择
         - host, about.meta.com,🚀 节点选择
@@ -79,8 +77,6 @@
         - host-suffix, adsrvr.org,🚀 节点选择
         - host, insight.adsrvr.org,🚀 节点选择
         - host, ocsp.pki.goog,🚀 节点选择
-        - host, unity.api.mchnad.com,🚀 节点选择
-        - host-suffix, unity.cn,🚀 节点选择
         - host-suffix, singular.net,🚀 节点选择
         - host-suffix, igp08-gl-bdc.wshtgame.com,🚀 节点选择
         - host-suffix, adsafeprotected.com,🚀 节点选择
@@ -170,7 +166,6 @@
         - DOMAIN-SUFFIX, rutracker.rog,🚀 节点选择
         - DOMAIN-SUFFIX, ted.com,🚀 节点选择
         - DOMAIN-SUFFIX, truthsocial.com,🚀 节点选择
-        - DOMAIN-SUFFIX, unity3d.com,🚀 节点选择
         - DOMAIN-SUFFIX, yad.com,🚀 节点选择
         - DOMAIN-SUFFIX, yahoo.com,🚀 节点选择
         - DOMAIN-SUFFIX,0rz.tw,🚀 节点选择
@@ -808,7 +803,6 @@
         - DOMAIN-SUFFIX,stackoverflow.com,🚀 节点选择
         - DOMAIN-SUFFIX,startpage.com,🚀 节点选择
         - DOMAIN-SUFFIX,steamcdn-a.akamaihd.net,🚀 节点选择
-        - DOMAIN-SUFFIX,steamcommunity.com,🚀 节点选择
         - DOMAIN-SUFFIX,steamcontent.com,🚀 节点选择
         - DOMAIN-SUFFIX,steampowered.com,🚀 节点选择
         - DOMAIN-SUFFIX,steamstatic.com,🚀 节点选择
@@ -879,7 +873,6 @@
         - DOMAIN-SUFFIX,typepad.com,🚀 节点选择
         - DOMAIN-SUFFIX,udn.com,🚀 节点选择
         - DOMAIN-SUFFIX,udnbkk.com,🚀 节点选择
-        - DOMAIN-SUFFIX,unity3d.com,🚀 节点选择
         - DOMAIN-SUFFIX,unseen.is,🚀 节点选择
         - DOMAIN-SUFFIX,uploader.jp,🚀 节点选择
         - DOMAIN-SUFFIX,uplynk.com,🚀 节点选择
