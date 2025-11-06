@@ -1,45 +1,23 @@
-# ==== 🧠 AI 平台加速分流 ====
+[filter_local]
 
-# ChatGPT / OpenAI
-DOMAIN-SUFFIX,openai.com,🚀 节点选择
-DOMAIN-SUFFIX,chat.openai.com,🚀 节点选择
-DOMAIN-SUFFIX,ai.com,🚀 节点选择
-DOMAIN-SUFFIX,oaiusercontent.com,🚀 节点选择
-DOMAIN-SUFFIX,openaiapi-site.azureedge.net,🚀 节点选择
-DOMAIN-SUFFIX,auth0.com,🚀 节点选择
-DOMAIN-SUFFIX,cdn.auth0.com,🚀 节点选择
-DOMAIN-SUFFIX,chatgpt.com,🚀 节点选择
+# ==== 🤖 ChatGPT / OpenAI 分流规则 ====
 
-# Anthropic Claude
-DOMAIN-SUFFIX,anthropic.com,🚀 节点选择
-DOMAIN-SUFFIX,claude.ai,🚀 节点选择
+# ChatGPT 主站与接口
+DOMAIN-SUFFIX,openai.com,🤖 ChatGPT
+DOMAIN-SUFFIX,chat.openai.com,🤖 ChatGPT
+DOMAIN-SUFFIX,ai.com,🤖 ChatGPT
+DOMAIN-SUFFIX,chatgpt.com,🤖 ChatGPT
 
-# Google Gemini
-DOMAIN-SUFFIX,gemini.google.com,🚀 节点选择
-DOMAIN-SUFFIX,ai.google.dev,🚀 节点选择
+# OpenAI 静态资源与身份验证
+DOMAIN-SUFFIX,cdn.auth0.com,🤖 ChatGPT
+DOMAIN-SUFFIX,auth0.com,🤖 ChatGPT
+DOMAIN-SUFFIX,oaiusercontent.com,🤖 ChatGPT
+DOMAIN-SUFFIX,openaicom.imgix.net,🤖 ChatGPT
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net,🤖 ChatGPT
+DOMAIN-SUFFIX,challenges.cloudflare.com,🤖 ChatGPT
+DOMAIN-SUFFIX,openai.azure.com,🤖 ChatGPT
 
-# Microsoft Copilot / Bing Chat
-DOMAIN-SUFFIX,bing.com,🚀 节点选择
-DOMAIN-SUFFIX,edgeservices.bing.com,🚀 节点选择
-DOMAIN-SUFFIX,copilot.microsoft.com,🚀 节点选择
-DOMAIN-SUFFIX,openai.azure.com,🚀 节点选择
-
-# Perplexity
-DOMAIN-SUFFIX,perplexity.ai,🚀 节点选择
-
-# Poe (Quora)
-DOMAIN-SUFFIX,poe.com,🚀 节点选择
-DOMAIN-SUFFIX,quora.com,🚀 节点选择
-
-# HuggingFace
-DOMAIN-SUFFIX,huggingface.co,🚀 节点选择
-DOMAIN-SUFFIX,hf.space,🚀 节点选择
-
-# Stability / Midjourney（仅网页）
-DOMAIN-SUFFIX,stability.ai,🚀 节点选择
-DOMAIN-SUFFIX,midjourney.com,🚀 节点选择
-
-# OpenAI 静态资源
-DOMAIN-SUFFIX,openaicom.imgix.net,🚀 节点选择
-DOMAIN-SUFFIX,openaicom-api-gateway.openai.azure.com,🚀 节点选择
-DOMAIN-SUFFIX,cdn.openai.com,🚀 节点选择
+# 备用匹配规则（通配）
+DOMAIN-KEYWORD,openai,🤖 ChatGPT
+DOMAIN-KEYWORD,chatgpt,🤖 ChatGPT
+DOMAIN-KEYWORD,oai,🤖 ChatGPT
